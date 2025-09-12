@@ -1,4 +1,4 @@
-# Web site Comunidade de Python Flask.
+# Web site construido em Python usando Flask.
 
 » O site foi feito com intuito de ser um Blog/Post para os desenvolvedores que usam Python.
   
