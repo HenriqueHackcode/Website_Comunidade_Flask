@@ -1,8 +1,8 @@
 # Web site construido em Python usando Flask.
 
-» O site foi feito com intuito de ser um Blog/Post para os desenvolvedores que usam Python.
+» O site foi feito com intuito de ser um Blog para os desenvolvedores.
   
-  » É um projeto acadêmico simples, porém com algumas funcionalidades como: Criar seu próprio post interagindo com outros usuários, Banco de dados, Formulário de login, Edição de perfil do usuário, como foto e alguns cursos que existentes no sistema onde o usuário pode adiciona-lo ao perfil como uma tag.
+  » É um projeto acadêmico simples, porém com algumas funcionalidades como: Formulário de login, Edição de perfil do usuário, Criar seu próprio post interagindo com outros usuários, Banco de dados Postgresql.
 
 
 » Principais Frameworks: Flask-SQLAlchemy - Flask-Bcrypt - Flask-WTF - Flask-Login.
